@@ -33,15 +33,14 @@ Este proyecto fue desarrollado en **RAPTOR**, un entorno de programación basado
 ## 📷 Ejemplo de Uso
 Agrega tus capturas de pantalla o GIFs del programa en acción aquí:
 
-![Imagen 1](ruta/a/imagen1.png)
-![Imagen 2](ruta/a/imagen2.png)
-![Imagen 3](ruta/a/imagen3.png)
+![Imagen 1](https://raw.githubusercontent.com/soyfafy/BatidosDonFide-ProyectoRaptor/refs/heads/main/Screenshot%202025-02-24%20151958.png)
+![Imagen 2](https://raw.githubusercontent.com/soyfafy/BatidosDonFide-ProyectoRaptor/refs/heads/main/Screenshot%202025-02-24%20152017.png)
+![Imagen 3](https://raw.githubusercontent.com/soyfafy/BatidosDonFide-ProyectoRaptor/refs/heads/main/Screenshot%202025-02-24%20152028.png)
 
 ## 📬 Contacto
 Si deseas conocer más sobre este y otros proyectos, puedes contactarme en:
-- 📧 Email: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 🔗 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
-- 📱 Redes Sociales: [Instagram/Facebook/Twitter](https://tuperfil.com)
+- 📧 Email: [fabian.ruuiz@gmail.com](mailto:abian.ruuiz@gmail.com)
+- 🔗 LinkedIn: [Fabian Ruiz Garita](https://www.linkedin.com/in/fabian-ruiz-garita/)
 
 ---
 Este proyecto es de uso libre y no se requiere colaboración. Es un respaldo en mi portafolio.
